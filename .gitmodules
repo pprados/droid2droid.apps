@@ -1,0 +1,15 @@
+[submodule "d2d-buzzer"]
+	path = d2d-buzzer
+	url = https://code.google.com/p/droid2droid.buzzer/
+[submodule "d2d-lander"]
+	path = d2d-lander
+	url = https://code.google.com/p/droid2droid.lander/
+[submodule "d2d-qcm"]
+	path = d2d-qcm
+	url = https://code.google.com/p/droid2droid.qcm/
+[submodule "d2d-speedcloud"]
+	path = d2d-speedcloud
+	url = https://code.google.com/p/droid2droid.speedcloud/
+[submodule "d2d-test"]
+	path = d2d-test
+	url = https://code.google.com/p/droid2droid.test/
